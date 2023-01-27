@@ -3,7 +3,7 @@ import Info from './components/Info';
 import SignUpForm from './components/Signup';
 import DontHaveAcc from './components/DontHaveAcc';
 import StyleImage from './components/StyleImage';
-import Chats from './components/chats/Chats.jsx';
+import Chats from './components/chats/Chats';
 import Footer from './components/footer/Footer';
 function App() {
   return (
